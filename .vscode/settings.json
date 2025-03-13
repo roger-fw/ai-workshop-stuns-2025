@@ -1,0 +1,6 @@
+{
+    "python.defaultInterpreterPath": "C:/Users/medel/anaconda3/envs/ai-env-3_10/python.exe",
+    "terminal.integrated.env.windows": {
+        "PATH": "C:/Users/medel/anaconda3/envs/ai-env-3_10;${env:PATH}"
+    }
+}
